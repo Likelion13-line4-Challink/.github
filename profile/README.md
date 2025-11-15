@@ -63,12 +63,12 @@ Challink는 **실제 돈(포인트)를 걸고** 소규모 그룹끼리 수행하
 <br>
 
 ### 3. AI의 공정한 기준으로 인증 자동화
-> 방장이 응답하지 않는다면? 지난번 올렸던 사진을 다시 올리는 사람이 있다면?
+> 방장이 응답하지 않는다면? 이전에 올렸던 사진을 다시 올리는 사람이 있다면?
 <img width="900" alt="기능3" src="https://github.com/user-attachments/assets/d8301f01-4e8c-4a05-83af-298c1cf0e481" />
 <br>
 
 - 방장이 인증 확인을 안해줘도, 성공/실패 여부를 바로바로 확인 가능해요.<br>
-- 이전에 올렸던 사진을 재탕하는 양심없는 행동은 이제 No! 이제 올린 기록이 있는 사진을 다시 업로드 하면 AI가 실패로 판단합니다.<br>
+- 이전에 올렸던 사진을 재사용하는 양심없는 행동은 이제 No! 올린 기록이 있는 사진을 다시 업로드 하면 AI가 실패로 판단합니다.<br>
 
 <br>
 
@@ -109,7 +109,7 @@ Challink는 **실제 돈(포인트)를 걸고** 소규모 그룹끼리 수행하
 | 김서희 (PM/FE) | 정교은 (FE) | 권수현 (BE/AI) | 김석준 (BE) | 김유미 (BE) | 최유성 (DE) |
 |-------------|-------------|-------------|----------------|-------------|-------------|
 | <img src="https://github.com/suki186.png" width="100" height="100"/> | <img src="https://github.com/kyooonnnggg.png" width="100" height="100"/> | <img src="https://github.com/lo2q.png" width="100" height="100"/> | <img src="https://github.com/sonnyseokjun.png" width="100" height="100"/> | <img src="https://github.com/yumiykim.png" width="100" height="100"/> | <img width="100" height="100" alt="ㅇㅇ" src="https://github.com/user-attachments/assets/3176de27-37a8-474f-be3e-9e9c230a86a0" /> |
-| [@suki186](https://github.com/suki186.png) | [@kyooonnnggg](https://github.com/kyooonnnggg) | [@lo2q](https://github.com/lo2q) | [@sonnyseokjun](https://github.com/sonnyseokjun) | [@yumiykim](https://github.com/yumiykim) | |
+| [@suki186](https://github.com/suki186) | [@kyooonnnggg](https://github.com/kyooonnnggg) | [@lo2q](https://github.com/lo2q) | [@sonnyseokjun](https://github.com/sonnyseokjun) | [@yumiykim](https://github.com/yumiykim) | |
 
 <br>
 
